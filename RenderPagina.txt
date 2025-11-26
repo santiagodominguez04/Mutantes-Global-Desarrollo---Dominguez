@@ -1,0 +1,7 @@
+//Ver pagina
+
+https://api-mutantes-dominguez.onrender.com/swagger-ui/index.html
+
+//Ver estadísticas
+
+https://api-mutantes-dominguez.onrender.com/stats
